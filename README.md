@@ -5,7 +5,6 @@
 - 👋 I'm Julen Diaz, a Front-End Developer from Spain who loves Music and Tai Chi. 
 - 👀 I’m interested in Building and Creating Meaningful Software to make people's life easier.
 - 🐱‍🏍 I’m currently working through [The Odin Project](https://www.theodinproject.com) Curriculum
-- 🎥 I also upload web dev tutorials in Spanish to [Youtube](https://www.youtube.com/channel/UCUoloquxVnnNLFTD8RwthIQ)
 - 💞️ I’m looking to collaborate on Open Source Projects, Full-time job positions or Freelance.
 
 ## Language & Tools
