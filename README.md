@@ -1,11 +1,11 @@
-# Welcome to my Front-End Dojo! 🙏🏽
+# Welcome to my Coding Dojo! 🙏🏽
 
 <img width="2048" alt="Banner-Github" src="https://user-images.githubusercontent.com/66780327/114593857-dd794980-9c8c-11eb-9d7c-ade71b7219f3.png">
 
-- 👋 I'm Julen Diaz, a Front-End Developer from Spain who loves Music and Tai Chi. 
+- 👋 I'm Julen Diaz, a Self-taught Developer from Spain who loves Music and Tai Chi. 
 - 👀 I’m interested in Building and Creating Meaningful Software to make people's life easier.
-- 🐱‍🏍 I’m currently working through [The Odin Project](https://www.theodinproject.com) Curriculum
-- 💞️ I’m looking to collaborate on Open Source Projects, Full-time job positions or Freelance.
+- 🐱‍🏍 I’m currently building Superjob, a Full-Stack Application for tracking the best jobs with @NicolasRios
+- 💞️ In my free time, I contribute as a mentor in [Exercism](https://exercism.org/profiles/julendiaz).
 
 ## Language & Tools
 
@@ -24,9 +24,4 @@
 
 <img  src="https://github-readme-stats.vercel.app/api?username=julendiaz&show_icons=true&theme=tokyonight&icon_color=6392DF">
 
-## Contact Me
 
-[<img alt="Instagram" src="https://img.shields.io/badge/julendev%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/julendev/)
-[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/julenfront/) 
-[<img alt="Youtube" src="https://img.shields.io/badge/julendev%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>](https://www.youtube.com/channel/UCUoloquxVnnNLFTD8RwthIQ)
-[<img alt="Twitter" src="https://img.shields.io/badge/@julendev%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/julendev)
