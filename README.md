@@ -1,8 +1,8 @@
-# Welcome to my Coding Dojo! 🙏🏽
+# Herzlich willkommen! 🙏🏽
 
-<img width="2048" alt="Banner-Github" src="https://user-images.githubusercontent.com/66780327/114593857-dd794980-9c8c-11eb-9d7c-ade71b7219f3.png">
+<img width="2048" alt="Banner-Github" src="https://user-images.githubusercontent.com/66780327/151988632-a25cb647-997e-483b-a3e6-46b0fe04d6c7.png">
 
-- 👋 I'm Julen Diaz, a Self-taught Developer from Spain who loves Music and Tai Chi. 
+- 👋 I'm Julen Diaz, a Software Developer from Spain who loves Music and Martial Arts. 
 - 👀 I’m interested in Building and Creating Meaningful Software to make people's life easier.
 - 🐱‍🏍 I’m currently building Superjob, a Full-Stack Application for tracking the best jobs with @NicolasRios
 - 💞️ In my free time, I contribute as a mentor in [Exercism](https://exercism.org/profiles/julendiaz).
